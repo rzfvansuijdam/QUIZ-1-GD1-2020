@@ -1,70 +1,70 @@
 {
-    "quizID": "Bla Bla Questions",
+    "quizID": "rdr2 quiz",
     "quizMetaData":
     {
-        "title": "Bla Bla Knowledge",
+        "title": "rdr 2 quiz",
         "imageURI": "https://sd.keepcalms.com/i-w600/keep-calm-and-dont-ask-stupid-questions.jpg"
 
     },
     "quizContent":		
 		[
 			{
-				"question": "Wie ontwierp de Eiffeltoren?",
+				"question": "what year did the game start in",
 				"answers": [{
-						"answer": "Eiffel",
+						"answer": "1899",
 						"feedback": true
 					},
 					{
-						"answer": "Berlage",
+						"answer": "1911",
 						"feedback": false
 					},
 					{
-						"answer": "Edison",
+						"answer": "1889",
 						"feedback": false
 					},
 					{
-						"answer": "James Watt",
+						"answer": "1700",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "In welke kleuren speelt blauw-wit?",
+				"question": "how long did the development of rdr2 take",
 				"answers": [{
-						"answer": "blauw en wit",
+						"answer": "2.5 years",
+						"feedback": false
+					},
+					{
+						"answer": "6 years",
+						"feedback": false
+					},
+					{
+						"answer": "almost 8 years",
 						"feedback": true
 					},
 					{
-						"answer": "groen en geel",
-						"feedback": false
-					},
-					{
-						"answer": "rood en wit",
-						"feedback": false
-					},
-					{
-						"answer": "rood en blauw",
+						"answer": "-8 years",
 						"feedback": false
 					}
 				]
 			},
 			{
-				"question": "Wat is de voornaam van Eddy Merckx?",
+				"question": "wich woman did u find in the start of the game",
 				"answers": [{
-						"answer": "Jelle",
+						"answer": "mary beth",
 						"feedback": false
 					},
 					{
-						"answer": "Ed",
+						"answer": "leslie knope",
 						"feedback": false
 					},
 					{
-						"answer": "Eddy",
+						"answer": "jane doe",
+						"feedback": false
+					},
+					{
+						"answer": "sadie adler",
 						"feedback": true
-					},
-					{
-						"answer": "Gerrit",
-						"feedback": false
 					}
 				]
 			}

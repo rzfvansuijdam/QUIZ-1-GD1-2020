@@ -1,54 +1,54 @@
 {
-    "quizID": "Corona",
+    "quizID": "red dead",
     "quizMetaData":
     {
-        "title": "Corona Virus Knowledge",
-        "imageURI": "https://images.unsplash.com/photo-1583324113626-70df0f4deaab?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+        "title": "rdr 2 quiz",
+        "imageURI": "https://cdn.pu.nl/article/RDR2_Screenshot_095.png"
 
     },
     "quizContent":
     [ 
-        {   "question": "How long does the covid-19 survive outside the body??",
+        {   "question": "wich game studio made red dead redemtion 2",
             "answers": [{
-                    "answer": "A week in the air and on surfaces",
+                    "answer": "bethesda",
                     "feedback": false
                 },
                 {
-                    "answer": "Several hours to days",
+                    "answer": "rockstar",
                     "feedback": true
                 },
                 {
-                    "answer": "Up to two and a half weeks",
+                    "answer": "obsidian",
                     "feedback": false
                 }
             ]
         },
-        {   "question": "What’s more important for preventing infection?",
+        {   "question": "who is the main character",
             "answers": [{
-                    "answer": "Frequent hand-washing",
+                    "answer": "Arthur morgan",
                     "feedback": true
                 },
                 {
-                    "answer": "Wearing a face mask",
+                    "answer": "micah Bell",
                     "feedback": false
                 }
             ]
         },
-        {   "question": "Who’s at highest risk of developing severe Covid-19 disease?",
+        {   "question": "in which state did the game start",
             "answers": [{
-                    "answer": "Children",
+                    "answer": "lemoyne",
                     "feedback": false
                 },
                 {
-                    "answer": "People over 60 years of age",
+                    "answer": "amberino",
                     "feedback": true
                 },
                 {
-                    "answer": "Pregnant women",
+                    "answer": "new hanover",
                     "feedback": false
                 },
                 {
-                    "answer": "Those with existing medical conditions",
+                    "answer": "west elizabeth",
                     "feedback": false
                 }
             ]
